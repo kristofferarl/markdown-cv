@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Kristoffer Arlefur's CV
+title: Kristoffer Arlefur
 ---
 
 <div id="webaddress">
@@ -29,8 +29,6 @@ __Developer Experience Advocate__
 * Samlar in och hanterar feedback från utvecklare för att identifiera förbättringsområden.
 * Driver initiativ för att främja goda utvecklingsmetoder och en positiv utvecklarkultur.
 
-
-
 ## Arlefur Mobile, Växjö
 `Jul 2013 - Nuvarande`
 __Freelancer / Senior Software Engineer Mobile Applications__
@@ -38,6 +36,7 @@ __Freelancer / Senior Software Engineer Mobile Applications__
 * Ansvarar för utvecklingsprocessens olika delar, inklusive kravanalys, design, implementering, testning och driftsättning.
 * Har god erfarenhet av iOS-utveckling (Swift och Objective-C) samt integration med backend-system och tredjepartstjänster.
 * Erbjuder teknisk rådgivning inom mobil utveckling.
+
 
 ## IST Group AB, Växjö
 `Jul 2022 - Aug 2024`
@@ -57,7 +56,6 @@ __Product Manager Android och Mobile Applications Engineer__
 * Bidrog även i utvecklingsarbetet, främst inom Android.
 
 
-
 ## Visma SPCS AB, Växjö
 
 `Feb 2020 - Okt 2021`
@@ -72,17 +70,10 @@ __Team Manager / Product Owner__
 * Ansvarade för produktvision, backlogghantering och intressentkommunikation.
 * Ledde teamet genom agila metoder.
 
-`Feb 2014 - Jan 2018`
-__Senior iOS-Developer__
-* Utvecklade avancerade iOS-applikationer.
-* Ansvarade för design, implementering och testning.
-
-
-`Maj 2011 - Feb 2014`
+`Maj 2011 - Jan 2018`
 __iOS-Developer__
-* Utvecklade och underhöll iOS-applikationer i agila team.
-* Bidrog till leverans av högkvalitativ kod.
-
+* Utvecklade avancerade iOS-applikationer för småföretagare.
+* Ansvarade för design, implementering och testning.
 
 `Apr 2010 - Maj 2011`
 __Web-Developer__
