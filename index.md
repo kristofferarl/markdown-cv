@@ -15,15 +15,15 @@ title: Kristoffer Arlefur's CV
 
 ## Profil
   
-* Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom apputveckling (iOS och Android), systemarkitektur, teamledning och projektledning. Erfaren problemlösare med ett strukturerat och noggrant arbetssätt. Har en god förmåga att snabbt sätta mig in i nya tekniska och affärsmässiga sammanhang samt att ta ansvar för hela projektlivscykeln, från kravinsamling och design till utveckling och driftsättning.
+Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom apputveckling (iOS och Android), systemarkitektur, teamledning och projektledning. Erfaren problemlösare med ett strukturerat och noggrant arbetssätt. Har en god förmåga att snabbt sätta mig in i nya tekniska och affärsmässiga sammanhang samt att ta ansvar för hela projektlivscykeln, från kravinsamling och design till utveckling och driftsättning.
 
 ## Personliga Intressen
-* Hälsa och träning är en viktig del av mitt liv för avkoppling och välmående, och det ger mig även möjligheten att sätta upp och arbeta mot långsiktiga mål. Utöver det uppskattar jag figur- och brädspel, som erbjuder både strategisk utmaning och social interaktion.
+Hälsa och träning är en viktig del av mitt liv för avkoppling och välmående, och det ger mig även möjligheten att sätta upp och arbeta mot långsiktiga mål. Utöver det uppskattar jag figur- och brädspel, som erbjuder både strategisk utmaning och social interaktion.
 
 # Arbetslivserfarenhet
 
 ## Fortnox AB, Växjö
-`Augusti 2024 - Nuvarande`
+`Aug 2024 - Nuvarande`
 __Developer Experience Advocate__
 * Arbetar med att förbättra utvecklarupplevelsen genom dokumentation, verktyg och processoptimering.
 * Samlar in och hanterar feedback från utvecklare för att identifiera förbättringsområden.
@@ -32,7 +32,7 @@ __Developer Experience Advocate__
 
 
 ## Arlefur Mobile, Växjö
-`Juli 2013 - Nuvarande`
+`Jul 2013 - Nuvarande`
 __Freelancer / Senior Software Engineer Mobile Applications__
 * Utvecklar mobila applikationer, primärt inom iOS, för olika kunder.
 * Ansvarar för utvecklingsprocessens olika delar, inklusive kravanalys, design, implementering, testning och driftsättning.
@@ -40,7 +40,7 @@ __Freelancer / Senior Software Engineer Mobile Applications__
 * Erbjuder teknisk rådgivning inom mobil utveckling.
 
 ## IST Group AB, Växjö
-`Juli 2022 - Augusti 2024`
+`Jul 2022 - Aug 2024`
 __Development Manager__
 * Ledde och coachade utvecklingsteam.
 * Ansvarade för planering, resursallokering och uppföljning av projekt.
@@ -50,7 +50,7 @@ __Development Manager__
 
 ## JLT Mobile Software Solutions AB, Växjö
 
-`September 2021 - Augusti 2022`
+`Sep 2021 - Aug 2022`
 __Product Manager Android och Mobile Applications Engineer__
 * Ansvarade för produktstrategi och backlogghantering för Android- och mobila applikationer.
 * Genomförde marknadsanalyser och arbetade nära utvecklingsteamet.
@@ -60,36 +60,36 @@ __Product Manager Android och Mobile Applications Engineer__
 
 ## Visma SPCS AB, Växjö
 
-`Februari 2020 - Oktober 2021`
+`Feb 2020 - Okt 2021`
 __Lead Developer Mobile Applications__
 * Tog ett tekniskt ledarskap för mobilapplikationsutvecklingen.
 * Ansvarade för arkitektur, kodkvalitet och tekniska beslut.
 * Mentor och stöttade juniora utvecklare.
 
-`Januari 2018 - Februari 2019`
+`Jan 2018 - Feb 2019`
 __Team Manager / Product Owner__
 * Ledde ett utvecklingsteam och agerade Product Owner för mobila applikationer.
 * Ansvarade för produktvision, backlogghantering och intressentkommunikation.
 * Ledde teamet genom agila metoder.
 
-`Februari 2014 - Januari 2018`
+`Feb 2014 - Jan 2018`
 __Senior iOS-Developer__
 * Utvecklade avancerade iOS-applikationer.
 * Ansvarade för design, implementering och testning.
 
 
-`Maj 2011 - Februari 2014`
+`Maj 2011 - Feb 2014`
 __iOS-Developer__
 * Utvecklade och underhöll iOS-applikationer i agila team.
 * Bidrog till leverans av högkvalitativ kod.
 
 
-`April 2010 - Maj 2011`
+`Apr 2010 - Maj 2011`
 __Web-Developer__
 * Utvecklade och underhöll webbapplikationer (C#, Azure, HTML, CSS, JavaScript).
 
 ## Consid AB, Karlshamn
-`Mars 2019 - Mars 2020`
+`Mar 2019 - Mar 2020`
 __Senior iOS-Developer / Technical project lead__
 * Ledde tekniskt komplexa iOS-projekt hos kunder.
 * Ansvarade för teknisk planering, delegering och kundkontakt.
@@ -97,7 +97,7 @@ __Senior iOS-Developer / Technical project lead__
 
 
 ## Rejlers AB, Karlskrona
-`Maj 2009 - Januari 2010`
+`Maj 2009 - Jan 2010`
 __Automation Engineer__
 * Skapade och underhöll elscheman.
 * Programmerade industrirobotar.
@@ -105,13 +105,16 @@ __Automation Engineer__
 ## Utbildning
 
 `2005 - 2009`
-* Högskoleingenjör Datateknik, Växjö Universitet
+__Högskoleingenjör Datateknik, Växjö Universitet__
+Är en treårig högskoleutbildning som ger en bred ingenjörskompetens inom datateknik. Den omfattar programmering, databaser, nätverk, systemutveckling.
 
 `2022`
-* Ledarskap i Praktiken
+__Ledarskap i Praktiken__
+Är en utbildning i effektivt ledarskap, med fokus på att bygga starka team och hantera svåra samtal konstruktivt.
 
 `2004 - 2005`
-* Systemtekniker i Flottan
+__Systemtekniker i Flottan__
+Innebar ansvarade för drift och underhåll av de tekniska system som finns ombord på minröjningsfartyg.
 
 ## Övriga Meriter
 
