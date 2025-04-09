@@ -18,7 +18,7 @@ Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom a
 
 # Arbetslivserfarenhet
 
-## Fortnox AB, Växjö
+## Fortnox AB
 ### Developer Experience Advocate
 `Augusti 2024 - Nuvarande`
 
@@ -26,7 +26,7 @@ Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom a
 * Samlar in och hanterar feedback från utvecklare för att identifiera förbättringsområden.
 * Driver initiativ för att främja goda utvecklingsmetoder och en positiv utvecklarkultur.
 
-## Arlefur Mobile, Växjö
+## Arlefur Mobile
 ### Freelancer / Senior Software Engineer Mobile Applications 
 `Juli 2013 - Nuvarande`
 
@@ -36,7 +36,7 @@ Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom a
 * Erbjuder teknisk rådgivning inom mobil utveckling.
 
 
-## IST Group AB, Växjö
+## IST Group AB
 ### Development Manager
 `Juli 2022 - Augusti 2024`
 
@@ -45,7 +45,7 @@ Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom a
 * Bidrog till en motiverande och produktiv arbetsmiljö.
 * Samarbetade med produktledning och andra stakeholders.
 
-## JLT Mobile Software Solutions AB, Växjö
+## JLT Mobile Software Solutions AB
 ### Product Manager Android och Mobile Applications Engineer
 `September 2021 - Augusti 2022`
 
@@ -53,7 +53,7 @@ Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom a
 * Genomförde marknadsanalyser och arbetade nära utvecklingsteamet.
 * Bidrog även i utvecklingsarbetet, främst inom Android.
 
-## Visma SPCS AB, Växjö
+## Visma SPCS AB
 ### Lead Developer Mobile Applications 
 `Februari 2020 - Oktober 2021`
 
@@ -85,7 +85,7 @@ Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom a
 
 * Utvecklade och underhöll webbapplikationer (C#, Azure, HTML, CSS, JavaScript).
 
-## Consid AB, Karlshamn
+## Consid AB
 ### Senior iOS-Developer / Technical project lead
 `Mars 2019 - Mars 2020`
 
@@ -93,7 +93,7 @@ Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom a
 * Ansvarade för teknisk planering, delegering och kundkontakt.
 * Säkerställde leverans med hög kvalitet.
 
-## Rejlers AB, Karlskrona
+## Rejlers AB
 ### Automation Engineer
 `Maj 2009 - Januari 2010`
 * Skapade och underhöll elscheman.
