@@ -17,6 +17,9 @@ kristoffer@arlefur.se
   
 Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom apputveckling (iOS och Android), systemarkitektur, teamledning och projektledning. Erfaren problemlösare med ett strukturerat och noggrant arbetssätt. Har en god förmåga att snabbt sätta mig in i nya tekniska och affärsmässiga sammanhang samt att ta ansvar för hela projektlivscykeln, från kravinsamling och design till utveckling och driftsättning.
 
+# Personliga Intressen
+Hälsa och träning är viktigt för avkoppling och välmående. Intresserad av figur- och brädspel.
+
 # Arbetslivserfarenhet
 
 ## Fortnox AB, Växjö
@@ -102,9 +105,8 @@ Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom a
 
 ## Rejlers AB, Karlskrona
 
-### Automation Engineer
-
 `Maj 2009 - Januari 2010`
+### Automation Engineer
 
 * Skapade och underhöll elscheman.
 * Programmerade industrirobotar.
@@ -112,25 +114,22 @@ Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom a
 # Utbildning
 
 `2005 - 2009`
-*Högskoleingenjör Datateknik, Växjö Universitet
+__Högskoleingenjör Datateknik, Växjö Universitet__
 
 `2022`
-* Ledarskap i Praktiken
+__Ledarskap i Praktiken__
 
 `2004 - 2005`
-* Systemtekniker i Flottan
+__Systemtekniker i Flottan__
 
 # Övriga Meriter
 
-* MS Azure Fundamentals
-* En Svensk Klassiker
-* Körkort B
+__MS Azure Fundamentals__
+__En Svensk Klassiker__
+__Körkort B__
 
 # Språk
 
-* Svenska: Modersmål
-* Engelska: Flytande
-
-# Personliga Intressen
-Hälsa och träning är viktigt för avkoppling och välmående. Intresserad av figur- och brädspel.
+__Svenska: Modersmål__
+__Engelska: Flytande__
 
