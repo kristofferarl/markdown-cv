@@ -106,15 +106,15 @@ __Automation Engineer__
 
 `2005 - 2009`
 __Högskoleingenjör Datateknik, Växjö Universitet__
-Är en treårig högskoleutbildning som ger en bred ingenjörskompetens inom datateknik. Den omfattar programmering, databaser, nätverk, systemutveckling.
+* Är en treårig högskoleutbildning som ger en bred ingenjörskompetens inom datateknik. Den omfattar programmering, databaser, nätverk, systemutveckling.
 
 `2022`
 __Ledarskap i Praktiken__
-Är en utbildning i effektivt ledarskap, med fokus på att bygga starka team och hantera svåra samtal konstruktivt.
+* Är en utbildning i effektivt ledarskap, med fokus på att bygga starka team och hantera svåra samtal konstruktivt.
 
 `2004 - 2005`
 __Systemtekniker i Flottan__
-Innebar ansvarade för drift och underhåll av de tekniska system som finns ombord på minröjningsfartyg.
+* Innebar ansvarade för drift och underhåll av de tekniska system som finns ombord på minröjningsfartyg.
 
 ## Övriga Meriter
 
