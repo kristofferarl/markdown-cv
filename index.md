@@ -10,8 +10,8 @@ title: Kristoffer Arlefur's CV
 
 # Kristoffer Arlefur
 Gulli Petrinis Väg 28  
-0708151828
-kristoffer@arlefur.se
+0708151828  
+kristoffer@arlefur.se  
 
 # Profil
   
