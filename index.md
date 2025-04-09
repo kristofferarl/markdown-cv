@@ -99,31 +99,29 @@ Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom a
 * Skapade och underhöll elscheman.
 * Programmerade industrirobotar.
 
-# Utbildning
+## Utbildning
 
-## Ledarskap i Praktiken
-`2022`
-
-## DISC-analys
-`2018`
-
-## Högskoleingenjör Datateknik, Växjö Universitet
 `2005 - 2009`
+__Högskoleingenjör Datateknik, Växjö Universitet__
 
-## Systemtekniker i Flottan
+`2022`
+__Ledarskap i Praktiken__
+
 `2004 - 2005`
+__Systemtekniker i Flottan__
 
-# Övriga Meriter
+
+## Övriga Meriter
 
 * MS Azure Fundamentals
 * En Svensk Klassiker
 * Körkort B
 
-# Språk
+## Språk
 
 * Svenska: Modersmål
 * Engelska: Flytande
 
-# Personliga Intressen
+## Personliga Intressen
 
 Hälsa och träning är viktigt för avkoppling och välmående. Intresserad av figur- och brädspel.
