@@ -23,14 +23,14 @@ Hälsa och träning är en viktig del av mitt liv för avkoppling och välmåend
 # Arbetslivserfarenhet
 
 ## Fortnox
-`Aug 2024 - Nuvarande`
+`Aug 2024 - nu`
 __Developer Experience Advocate__
 * Arbetar med att förbättra utvecklarupplevelsen genom dokumentation, verktyg och processoptimering.
 * Samlar in och hanterar feedback från utvecklare för att identifiera förbättringsområden.
 * Driver initiativ för att främja goda utvecklingsmetoder och en positiv utvecklarkultur.
 
 ## Arlefur Mobile
-`Jul 2013 - Nuvarande`
+`Jul 2013 - nu`
 __Freelancer / Senior Software Engineer Mobile Applications__
 * Utvecklar mobila applikationer, primärt inom iOS, för olika kunder.
 * Ansvarar för utvecklingsprocessens olika delar, inklusive kravanalys, design, implementering, testning och driftsättning.
