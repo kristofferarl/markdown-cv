@@ -22,14 +22,14 @@ Hälsa och träning är en viktig del av mitt liv för avkoppling och välmåend
 
 # Arbetslivserfarenhet
 
-## Fortnox AB, Växjö
+## Fortnox AB
 `Aug 2024 - Nuvarande`
 __Developer Experience Advocate__
 * Arbetar med att förbättra utvecklarupplevelsen genom dokumentation, verktyg och processoptimering.
 * Samlar in och hanterar feedback från utvecklare för att identifiera förbättringsområden.
 * Driver initiativ för att främja goda utvecklingsmetoder och en positiv utvecklarkultur.
 
-## Arlefur Mobile, Växjö
+## Arlefur Mobile
 `Jul 2013 - Nuvarande`
 __Freelancer / Senior Software Engineer Mobile Applications__
 * Utvecklar mobila applikationer, primärt inom iOS, för olika kunder.
@@ -38,7 +38,7 @@ __Freelancer / Senior Software Engineer Mobile Applications__
 * Erbjuder teknisk rådgivning inom mobil utveckling.
 
 
-## IST Group AB, Växjö
+## IST Group AB
 `Jul 2022 - Aug 2024`
 __Development Manager__
 * Ledde och coachade utvecklingsteam.
@@ -47,7 +47,7 @@ __Development Manager__
 * Samarbetade med produktledning och andra stakeholders.
 
 
-## JLT Mobile Software Solutions AB, Växjö
+## JLT Mobile Software Solutions AB
 
 `Sep 2021 - Aug 2022`
 __Product Manager Android och Mobile Applications Engineer__
@@ -56,7 +56,7 @@ __Product Manager Android och Mobile Applications Engineer__
 * Bidrog även i utvecklingsarbetet, främst inom Android.
 
 
-## Visma SPCS AB, Växjö
+## Visma SPCS AB
 
 `Feb 2020 - Okt 2021`
 __Lead Developer Mobile Applications__
@@ -79,7 +79,7 @@ __iOS-Developer__
 __Web-Developer__
 * Utvecklade och underhöll webbapplikationer (C#, Azure, HTML, CSS, JavaScript).
 
-## Consid AB, Karlshamn
+## Consid AB
 `Mar 2019 - Mar 2020`
 __Senior iOS-Developer / Technical project lead__
 * Ledde tekniskt komplexa iOS-projekt hos kunder.
@@ -87,7 +87,7 @@ __Senior iOS-Developer / Technical project lead__
 * Säkerställde leverans med hög kvalitet.
 
 
-## Rejlers AB, Karlskrona
+## Rejlers AB
 `Maj 2009 - Jan 2010`
 __Automation Engineer__
 * Skapade och underhöll elscheman.
