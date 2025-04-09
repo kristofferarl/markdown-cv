@@ -8,26 +8,26 @@ title: Kristoffer Arlefur's CV
 </div>
 
 # Kristoffer Arlefur
-Gulli Petrinis Väg 28  
+Gulli Petrinis Väg 28
 0708151828
 kristoffer@arlefur.se
 
-# Profil
+## Profil
 
 Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom apputveckling (iOS och Android), systemarkitektur, teamledning och projektledning. Erfaren problemlösare med ett strukturerat och noggrant arbetssätt. Har en god förmåga att snabbt sätta mig in i nya tekniska och affärsmässiga sammanhang samt att ta ansvar för hela projektlivscykeln, från kravinsamling och design till utveckling och driftsättning.
 
-# Arbetslivserfarenhet
+## Arbetslivserfarenhet
 
-## Fortnox AB, Växjö
-### Developer Experience Advocate
+### Fortnox AB, Växjö
+#### Developer Experience Advocate
 `Augusti 2024 - Nuvarande`
 
 * Arbetar med att förbättra utvecklarupplevelsen genom dokumentation, verktyg och processoptimering.
 * Samlar in och hanterar feedback från utvecklare för att identifiera förbättringsområden.
 * Driver initiativ för att främja goda utvecklingsmetoder och en positiv utvecklarkultur.
 
-## Arlefur Mobile, Växjö
-### Freelancer / Senior Software Engineer Mobile Applications 
+### Arlefur Mobile, Växjö
+#### Freelancer / Senior Software Engineer Mobile Applications
 `Juli 2013 - Nuvarande`
 
 * Utvecklar mobila applikationer, primärt inom iOS, för olika kunder.
@@ -36,8 +36,8 @@ Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom a
 * Erbjuder teknisk rådgivning inom mobil utveckling.
 
 
-## IST Group AB, Växjö
-### Development Manager
+### IST Group AB, Växjö
+#### Development Manager
 `Juli 2022 - Augusti 2024`
 
 * Ledde och coachade utvecklingsteam.
@@ -45,56 +45,56 @@ Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom a
 * Bidrog till en motiverande och produktiv arbetsmiljö.
 * Samarbetade med produktledning och andra stakeholders.
 
-## JLT Mobile Software Solutions AB, Växjö
-### Product Manager Android och Mobile Applications Engineer
+### JLT Mobile Software Solutions AB, Växjö
+#### Product Manager Android och Mobile Applications Engineer
 `September 2021 - Augusti 2022`
 
 * Ansvarade för produktstrategi och backlogghantering för Android- och mobila applikationer.
 * Genomförde marknadsanalyser och arbetade nära utvecklingsteamet.
 * Bidrog även i utvecklingsarbetet, främst inom Android.
 
-## Visma SPCS AB, Växjö
-### Lead Developer Mobile Applications 
+### Visma SPCS AB, Växjö
+#### Lead Developer Mobile Applications
 `Februari 2020 - Oktober 2021`
 
 * Tog ett tekniskt ledarskap för mobilapplikationsutvecklingen.
 * Ansvarade för arkitektur, kodkvalitet och tekniska beslut.
 * Mentor och stöttade juniora utvecklare.
 
-### Team Manager / Product Owner
+#### Team Manager / Product Owner
 `Januari 2018 - Februari 2019`
 
 * Ledde ett utvecklingsteam och agerade Product Owner för mobila applikationer.
 * Ansvarade för produktvision, backlogghantering och intressentkommunikation.
 * Ledde teamet genom agila metoder.
 
-### Senior iOS-Developer
+#### Senior iOS-Developer
 `Februari 2014 - Januari 2018`
 
 * Utvecklade avancerade iOS-applikationer.
 * Ansvarade för design, implementering och testning.
 
-### iOS-Developer
+#### iOS-Developer
 `Maj 2011 - Februari 2014`
 
 * Utvecklade och underhöll iOS-applikationer i agila team.
 * Bidrog till leverans av högkvalitativ kod.
 
-### Web-Developer
+#### Web-Developer
 `April 2010 - Maj 2011`
 
 * Utvecklade och underhöll webbapplikationer (C#, Azure, HTML, CSS, JavaScript).
 
-## Consid AB, Karlshamn
-### Senior iOS-Developer / Technical project lead
+### Consid AB, Karlshamn
+#### Senior iOS-Developer / Technical project lead
 `Mars 2019 - Mars 2020`
 
 * Ledde tekniskt komplexa iOS-projekt hos kunder.
 * Ansvarade för teknisk planering, delegering och kundkontakt.
 * Säkerställde leverans med hög kvalitet.
 
-## Rejlers AB, Karlskrona
-### Automation Engineer
+### Rejlers AB, Karlskrona
+#### Automation Engineer
 `Maj 2009 - Januari 2010`
 * Skapade och underhöll elscheman.
 * Programmerade industrirobotar.
@@ -102,13 +102,13 @@ Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom a
 ## Utbildning
 
 `2005 - 2009`
-__Högskoleingenjör Datateknik, Växjö Universitet__
+#### Högskoleingenjör Datateknik, Växjö Universitet
 
 `2022`
-__Ledarskap i Praktiken__
+#### Ledarskap i Praktiken
 
 `2004 - 2005`
-__Systemtekniker i Flottan__
+#### Systemtekniker i Flottan
 
 
 ## Övriga Meriter
