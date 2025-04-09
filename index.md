@@ -9,16 +9,16 @@ title: Kristoffer Arlefur's CV
 
 
 # Kristoffer Arlefur
-Gulli Petrinis Väg 28  
-0708151828  
-kristoffer@arlefur.se  
+* Gulli Petrinis Väg 28  
+* 0708151828  
+* kristoffer@arlefur.se  
 
 # Profil
   
-Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom apputveckling (iOS och Android), systemarkitektur, teamledning och projektledning. Erfaren problemlösare med ett strukturerat och noggrant arbetssätt. Har en god förmåga att snabbt sätta mig in i nya tekniska och affärsmässiga sammanhang samt att ta ansvar för hela projektlivscykeln, från kravinsamling och design till utveckling och driftsättning.
+* Utåtriktad och driven IT-professionell med över 15 års bred erfarenhet inom apputveckling (iOS och Android), systemarkitektur, teamledning och projektledning. Erfaren problemlösare med ett strukturerat och noggrant arbetssätt. Har en god förmåga att snabbt sätta mig in i nya tekniska och affärsmässiga sammanhang samt att ta ansvar för hela projektlivscykeln, från kravinsamling och design till utveckling och driftsättning.
 
 # Personliga Intressen
-Hälsa och träning är viktigt för avkoppling och välmående. Intresserad av figur- och brädspel.
+* Hälsa och träning är viktigt för avkoppling och välmående. Intresserad av figur- och brädspel.
 
 # Arbetslivserfarenhet
 
@@ -114,22 +114,22 @@ Hälsa och träning är viktigt för avkoppling och välmående. Intresserad av 
 # Utbildning
 
 `2005 - 2009`
-__Högskoleingenjör Datateknik, Växjö Universitet__
+* Högskoleingenjör Datateknik, Växjö Universitet
 
 `2022`
-__Ledarskap i Praktiken__
+* Ledarskap i Praktiken
 
 `2004 - 2005`
-__Systemtekniker i Flottan__
+* Systemtekniker i Flottan
 
 # Övriga Meriter
 
-__MS Azure Fundamentals__
-__En Svensk Klassiker__
-__Körkort B__
+* MS Azure Fundamentals
+* En Svensk Klassiker
+* Körkort B
 
 # Språk
 
-__Svenska: Modersmål__
-__Engelska: Flytande__
+* Svenska: Modersmål
+* Engelska: Flytande
 
