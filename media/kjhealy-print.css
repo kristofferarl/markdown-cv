@@ -63,7 +63,7 @@ body {
 
 p {
 	position: relative;
-	left: 33%;
+	left: 30%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 65%;
@@ -85,7 +85,7 @@ p code {
 
 ul { 
 	position: relative;
-	left: 33%;
+	left: 30%;
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
@@ -123,7 +123,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 28%;
+	left: 30%;
 }
 
 h1+p { 
