@@ -103,11 +103,10 @@ title: Kristoffer Arlefur's CV
 * Säkerställde leverans med hög kvalitet.
 
 
-### Rejlers AB, Karlskrona
+## Rejlers AB, Karlskrona
 
 `Maj 2009 - Januari 2010`
-#### Automation Engineer
-
+__Automation Engineer__
 * Skapade och underhöll elscheman.
 * Programmerade industrirobotar.
 
